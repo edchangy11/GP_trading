@@ -5,5 +5,5 @@ https://users.aalto.fi/~ssarkka/pub/cup_book_online_20131111.pdf - Simo book on 
 
 ## TODO
 
-Paul - To explain the link between KF and GPs and derive the KF for next week.
-Yuhao/Yaowei - Start to fit some GPs to small sized (n<1000) data points from FX data. 
+- Paul - To explain the link between KF and GPs and derive the KF for next week.
+- Yuhao/Yaowei - Start to fit some GPs to small sized (n<1000) data points from FX data. 
