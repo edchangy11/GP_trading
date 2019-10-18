@@ -1,6 +1,6 @@
 # GP_trading
 
-http://adamian.github.io/talks/Damianou_GP_tutorial.html - Tutorial i showed in the class
+http://adamian.github.io/talks/Damianou_GP_tutorial.html - Tutorial i showed on GPs
 https://users.aalto.fi/~ssarkka/pub/cup_book_online_20131111.pdf - Simo book on KF/KS
 
 ## TODO
